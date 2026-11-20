@@ -5,3 +5,4 @@ Egy egyszerű feladatkezelő minta projekt struktúrájának és verziókezelés
 ## Funkciók (tervezett)
 - Feladatok létrehozása és listázása
 - Státuszok kezelése a kanban táblán
+Új funkció fejlesztése folyamatban
